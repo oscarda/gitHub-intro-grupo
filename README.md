@@ -1,16 +1,17 @@
-# gitHub-intro-individual
+# gitHub-intro-grupo
 
 1. Clona este repositorio en tu equipo
 
 2. Añade un archivo al repositorio desde tu IDE, que tendrá un comentario:  
     //1) Añadido desde PHPStorm - tuNombre
     * Confirma los cambios (*commit*) tecleando una descripción adecuada.
+    * Sube los cambios al repositorio en la nube (*push*).
+    
+3. Desde GitHub, observa los archivos añadidos por tus compañeros, y en añade en cada uno un comentario:  
+    //2.x) Desde GitHub - tuNombre (sustituye la x por el primer número disponible no utilizado).
+    * Confirma (commit) añadiendo una descripción.
 
-3. Desde GitHub, accede al repositorio y añade un segundo comentario a tu archivo:  
-    //2) Desde GitHub - tuNombre
-    * Confirma añadiendo una descripción
-
-4. Visualiza en tu IDE el archivo con los últimos cambios y añade un segundo comentario a tu archivo.  
+4. Visualiza en tu IDE los archivo con los últimos cambios y añade un segundo comentario a tu archivo.  
     //3.1) Provocando un conflicto de edición - desde PHPStorm
     * Confirma los cambios (*commit*), pero no los subas a gitHub (no realices push).
 
@@ -23,7 +24,7 @@
     * en el archivo final deberían visualizar todos los comentarios en el orden correcto.
     * asegura que subes los cambios a GitHub con *push*.
 
-7. Comprueba desde GitHub que todos los comentarios del archivo están correctos.
+7. Comprueba desde GitHub que todos los comentarios del archivo están en el orden correcto.
 
 
 
